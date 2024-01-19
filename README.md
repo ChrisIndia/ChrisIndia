@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisIndia
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning c and html
+- 🌱 I’m currently learning Azure and cloud computing
 - 🖤 I'm a diploma student 
 
 <!---
